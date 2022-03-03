@@ -1,0 +1,9 @@
+{
+	"name": "krakenService",
+	"description": "Windows service creation Delphi framework",
+	"version": "20.3.3.1023",
+	"homepage": "",
+	"mainsrc": "./",
+	"projects": [],
+	"dependencies": {}
+}
